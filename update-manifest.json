@@ -1,19 +1,19 @@
 {
-  "tag_name": "telehook-spider-desktop/v0.2.29",
-  "name": "MaiSoo v0.2.29",
-  "html_url": "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/tag/telehook-spider-desktop/v0.2.29",
+  "tag_name": "telehook-spider-desktop/v0.2.30",
+  "name": "MaiSoo v0.2.30",
+  "html_url": "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/tag/telehook-spider-desktop/v0.2.30",
   "assets": [
     {
-      "name": "MaiSoo_0.2.29_aarch64.app.tar.gz",
-      "url": "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.2.29/MaiSoo_0.2.29_aarch64.app.tar.gz",
-      "browser_download_url": "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.2.29/MaiSoo_0.2.29_aarch64.app.tar.gz",
-      "size": 6046397
+      "name": "MaiSoo_0.2.30_aarch64.app.tar.gz",
+      "url": "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.2.30/MaiSoo_0.2.30_aarch64.app.tar.gz",
+      "browser_download_url": "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.2.30/MaiSoo_0.2.30_aarch64.app.tar.gz",
+      "size": 6073041
     },
     {
-      "name": "MaiSoo_0.2.29_aarch64.dmg",
-      "url": "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.2.29/MaiSoo_0.2.29_aarch64.dmg",
-      "browser_download_url": "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.2.29/MaiSoo_0.2.29_aarch64.dmg",
-      "size": 6305446
+      "name": "MaiSoo_0.2.30_aarch64.dmg",
+      "url": "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.2.30/MaiSoo_0.2.30_aarch64.dmg",
+      "browser_download_url": "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.2.30/MaiSoo_0.2.30_aarch64.dmg",
+      "size": 6330572
     }
   ]
 }
