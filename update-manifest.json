@@ -1,13 +1,13 @@
 {
-    "tag_name":  "telehook-spider-desktop/v0.3.36",
-    "name":  "MaiSoo v0.3.36",
-    "html_url":  "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/tag/telehook-spider-desktop/v0.3.36",
+    "tag_name":  "telehook-spider-desktop/v0.3.37",
+    "name":  "MaiSoo v0.3.37",
+    "html_url":  "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/tag/telehook-spider-desktop/v0.3.37",
     "assets":  [
                    {
-                       "browser_download_url":  "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.3.36/MaiSoo_0.3.36_x64-setup.exe",
-                       "url":  "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.3.36/MaiSoo_0.3.36_x64-setup.exe",
-                       "name":  "MaiSoo_0.3.36_x64-setup.exe",
-                       "size":  12388792
+                       "browser_download_url":  "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.3.37/MaiSoo_0.3.37_x64-setup.exe",
+                       "url":  "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.3.37/MaiSoo_0.3.37_x64-setup.exe",
+                       "name":  "MaiSoo_0.3.37_x64-setup.exe",
+                       "size":  12434724
                    }
                ]
 }
