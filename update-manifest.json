@@ -1,25 +1,19 @@
 {
-    "tag_name":  "telehook-spider-desktop/v0.3.50",
-    "name":  "Maisoo v0.3.50",
-    "html_url":  "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/tag/telehook-spider-desktop/v0.3.50",
-    "assets":  [
-                   {
-                       "browser_download_url":  "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.3.50/Maisoo_0.3.50_x64-setup.exe",
-                       "url":  "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.3.50/Maisoo_0.3.50_x64-setup.exe",
-                       "name":  "Maisoo_0.3.50_x64-setup.exe",
-                       "size":  12492251
-                   },
-                   {
-                       "browser_download_url":  "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.3.50/MaisooInstaller_0.3.50_x64.exe",
-                       "url":  "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.3.50/MaisooInstaller_0.3.50_x64.exe",
-                       "name":  "MaisooInstaller_0.3.50_x64.exe",
-                       "size":  51645941
-                   },
-                   {
-                       "browser_download_url":  "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.3.50/maisoo-runtime-windows-amd64-0.2.8.zip",
-                       "url":  "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.3.50/maisoo-runtime-windows-amd64-0.2.8.zip",
-                       "name":  "maisoo-runtime-windows-amd64-0.2.8.zip",
-                       "size":  16304543
-                   }
-               ]
+  "tag_name": "telehook-spider-desktop/v0.3.51",
+  "name": "Maisoo v0.3.51",
+  "html_url": "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/tag/telehook-spider-desktop/v0.3.51",
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.3.51/Maisoo_0.3.51_aarch64.app.tar.gz",
+      "url": "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.3.51/Maisoo_0.3.51_aarch64.app.tar.gz",
+      "name": "Maisoo_0.3.51_aarch64.app.tar.gz",
+      "size": 20063320
+    },
+    {
+      "browser_download_url": "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.3.51/Maisoo_0.3.51_aarch64.dmg",
+      "url": "https://github.com/GQ-Y/telehook-spider-desktop-releases/releases/download/telehook-spider-desktop/v0.3.51/Maisoo_0.3.51_aarch64.dmg",
+      "name": "Maisoo_0.3.51_aarch64.dmg",
+      "size": 20311374
+    }
+  ]
 }
